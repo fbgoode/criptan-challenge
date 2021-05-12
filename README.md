@@ -30,3 +30,13 @@ Example:
 ```
 vendingMachine.purchase(500,2);
 ```
+
+## Task 2: Palindrome Childs
+
+### Usage:
+
+Clone the repo and run (node required):
+```
+node tryTask2.js
+```
+To customize the inputs to the function, modify the tryTask2 file and input any number to the function on line 4

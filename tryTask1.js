@@ -17,7 +17,7 @@ const products = null; // define custom product list here (OPTIONAL)
 
 try {
     const vendingMachine = new VendingMachine(products);
-    const result = vendingMachine.purchase(1000,3);
+    const result = vendingMachine.purchase(1000,3); //Input here
     console.log(result);
 } catch (err) {
     console.log('ERROR: ',err.message);
